@@ -1,15 +1,12 @@
 Author - Varun
 
-This Repository contains the source code for the exercise that we have done
-in the ATB7x batch
+This Repository contains Source code of Java Programs , API Projects
 
 # Java Programs
-
 - Core JAVA
 - OOPS
 - Collection Frameworks
-- Mulri Threading
-- Design Patterns
-- File IO
 - Exception
-- Other misc concepts
+
+# API Projects
+- Restful Booker REST API
